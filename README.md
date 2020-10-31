@@ -10,7 +10,7 @@
 
 A lot of folks don't know this, but recruiters could be the reason you lose a great job.
 
-Recruiters can actually cost the client the best applicant because of the huge fees.
+Recruiters can actually cost the client the best applicant because of the huge fee.
 
 Permanent recruitment has a **sky high fee between 5% and 20%** of your first year salary. This fee can get silly quite quickly, especially if you need to say - fill 3 Node.js positions that's sometimes >£15K+ in fees.
 
